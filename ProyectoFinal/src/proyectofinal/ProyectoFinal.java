@@ -18,8 +18,6 @@ public class ProyectoFinal {
         // TODO code application logic here
         System.out.println(" Wilber  pariona  huaraca ");
         System.out.println(" Wilber  pariona  huaraca ");
-        System.out.println(" Wilber  pariona  huaraca ");  
-        System.out.println(" Wilber  pariona  huaraca ");
        
     
         
